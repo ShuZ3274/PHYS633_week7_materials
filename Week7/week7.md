@@ -1,8 +1,8 @@
 # Week 7: Chaos and Long-term Dynamics of the Solar System
 
 ## Reading
-- Chapter 9 from Murray and Dermott, sections 9.1-9.4 inclusively
-- Section 5 from M. J. Duncan and T. Quinn 
+- Chapter 9 from [Murray and Dermott](https://mcgill.on.worldcat.org/search/detail/40857034?datasource=library_web&search_field=all_fields&search=true&database=all&scope=wz%3A12129&format=&clusterResults=on&func=find-b&q=&topLod=0&queryString=solar%20system%20dynamics&find=Go), sections 9.1-9.4 inclusively
+- Section 5 from Duncan and Quinn 'The Long-Term Dynamical Evolution of the Solar System'
 
 ## Reading questions
 
