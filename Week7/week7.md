@@ -14,6 +14,6 @@ Q1-4 are related to the first reading, Q5-7 to the second.
 4. What is the maximum Lyapounov characteristic exponent and what does it tell you?
 5. What is problematic with modeling long term solar system dynamics with a perturbation expansion?
 6. This review paper dates from 1993 and states that 'a detailed understanding of Pluto's behavior is likely to be o btained only with the next generation of simulations'. From you knowledge as this been done? (You can also quickly search this up).
-7. what is the general concensus of the numerical simulations mentioned in this chapter? Does the solar system exhibit long-term stability?
+7. What is the general consensus of the numerical simulations mentioned in this chapter? Does the solar system exhibit long-term stability?
 
 Answers to these questions should be submitted to your github repository *before* class on Monday.
